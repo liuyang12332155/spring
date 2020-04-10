@@ -7,7 +7,7 @@ package com.itgaoshu.bean;
  * @date 2020/4/10 0010 11:15
  */
 public class Dept {
-    private int deptno;
+    private int deptno=10;
     private String dname;
 
     public int getDeptno() {
