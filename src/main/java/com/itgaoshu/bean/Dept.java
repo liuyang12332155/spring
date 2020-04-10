@@ -16,7 +16,7 @@ public class Dept {
 
     public void setDeptno(int deptno) {
         this.deptno = deptno;
-    }
+}
 
     public String getDname() {
         return dname;
